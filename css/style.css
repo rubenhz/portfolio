@@ -9,11 +9,6 @@ $breakpoint argument choices:
 - tab-port
 - tab-land
 - big-desktop
-
-Inside media queries 1em is always 16px i.e 1em = 16px at every screen size only inside media queries
-
-WHY DOES NESTING CSS CLASSES WORK HERE??????
-
 */
 
 * {
